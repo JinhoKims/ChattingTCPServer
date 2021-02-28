@@ -1,8 +1,6 @@
 #include <sdkddkver.h>
 #include "ChattingServer.h"
 
-
-
 const int MAX_SESSION_COUNT = 100;
 
 int main()
